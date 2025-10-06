@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/93/Moscow%2C_2025-07-13_running_event_06.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Roboto', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    max-width: 80%;
+    opacity: .8;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: blue;
+    opacity: 1;
+}
+
+#save-btn {
+    background: yellow;
+    color: black;
+    opacity: 1;
+}
+
